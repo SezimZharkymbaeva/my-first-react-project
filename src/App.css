@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.title{
+  font-size: 5 rem;
+  font-weight: 600;
+  margin: 4 rem 0;
+}
+
+.title-main{
+  font-size: 3.75 rem;
+  font-weight: 500;
+  margin: 3 rem 0;
+}
+
+.subtitle{
+  font-size: 2.5 rem;
+  font-weight: 400;
+  margin: 2 rem 0;
+}
+.d-flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
